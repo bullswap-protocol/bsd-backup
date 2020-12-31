@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bsd-backup/static/css/main.077c0737.chunk.css",
+    "main.js": "/bsd-backup/static/js/main.7803e126.chunk.js",
+    "main.js.map": "/bsd-backup/static/js/main.7803e126.chunk.js.map",
+    "runtime-main.js": "/bsd-backup/static/js/runtime-main.6c5bdde4.js",
+    "runtime-main.js.map": "/bsd-backup/static/js/runtime-main.6c5bdde4.js.map",
+    "static/css/2.76ef3db6.chunk.css": "/bsd-backup/static/css/2.76ef3db6.chunk.css",
+    "static/js/2.adba30cd.chunk.js": "/bsd-backup/static/js/2.adba30cd.chunk.js",
+    "static/js/2.adba30cd.chunk.js.map": "/bsd-backup/static/js/2.adba30cd.chunk.js.map",
+    "index.html": "/bsd-backup/index.html",
+    "precache-manifest.d26622e8744712dc638c3245458ca32f.js": "/bsd-backup/precache-manifest.d26622e8744712dc638c3245458ca32f.js",
+    "service-worker.js": "/bsd-backup/service-worker.js",
+    "static/css/2.76ef3db6.chunk.css.map": "/bsd-backup/static/css/2.76ef3db6.chunk.css.map",
+    "static/css/main.077c0737.chunk.css.map": "/bsd-backup/static/css/main.077c0737.chunk.css.map",
+    "static/js/2.adba30cd.chunk.js.LICENSE.txt": "/bsd-backup/static/js/2.adba30cd.chunk.js.LICENSE.txt",
+    "static/media/react-widgets.css": "/bsd-backup/static/media/rw-widgets.eceddf47.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c5bdde4.js",
+    "static/css/2.76ef3db6.chunk.css",
+    "static/js/2.adba30cd.chunk.js",
+    "static/css/main.077c0737.chunk.css",
+    "static/js/main.7803e126.chunk.js"
+  ]
+}
